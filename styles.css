@@ -5,11 +5,12 @@
 body{
     font-family: sans-serif;
     font-weight: lighter;
+    color: #120323;
     margin: 0;
 
     .header-container{
         background-color: #120323;
-        color: #8DB729; 
+        color: #97bf04; 
         font-size: small;
         display: flex;
         flex-direction: column;
